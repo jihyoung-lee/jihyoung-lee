@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jihyoung-lee
-- 👀 I’m interested in ... Python Laravel Back-end Computer-vision
-- 🌱 I’m currently learning ... Laravel Computer-vision
+- 👀 I’m interested in ... Python / Laravel / Web Application/ Computer-vision
+- 🌱 I’m currently learning ... Laravel / Computer-vision / Data Structure and Algorithms
 - 📫 How to reach me ... wlgud3412@naver.com
 
 <!---
