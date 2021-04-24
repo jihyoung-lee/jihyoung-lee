@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jihyoung-lee
-- 👀 I’m interested in ... Python / Laravel / Web Application/ Computer-vision
-- 🌱 I’m currently learning ... Laravel / Computer-vision / Data Structure and Algorithms
+- 👀 I’m interested in ...  Laravel / Morden PHP / Python  / Computer-vision ...
+- 🌱 I’m currently learning ... Laravel /  Morden PHP / OpenCV(Computer-vision) ...
 - 📫 How to reach me ... jihyoung.lee90@gmail.com
 
 <!---
