@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jihyoung Lee</h1>
 <p align="center">
-  🧠 AI / NLP Enthusiast &nbsp;|&nbsp; 💻 Laravel / Vue.js Developer &nbsp;|&nbsp; 🇰🇷 Korean polyglot
+  🧠 AI / NLP / CNN  &nbsp;|&nbsp; 💻 Laravel / Vue.js Developer &nbsp;|&nbsp; 🇰🇷 Korean polyglot
 </p>
 
 ---
