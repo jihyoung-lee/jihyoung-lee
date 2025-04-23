@@ -8,7 +8,7 @@
 ## 🌱 Currently Learning
 - 🐘 Modern PHP (Laravel 10+)
 - 🤖 AI / NLP / Computer Vision (CNN)
-- 🔎 Data Crawling / Python Flask API
+- 🔎 Data Crawling
 
 ---
 
