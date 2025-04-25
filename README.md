@@ -23,8 +23,9 @@
 ## ✨ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=laravel,php,vue,git,html,css" />
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask" />
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=docker" />
 ---
 
 <p align="center">
