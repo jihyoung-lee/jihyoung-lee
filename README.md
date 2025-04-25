@@ -24,10 +24,6 @@
 
 <img src="https://skillicons.dev/icons?i=laravel,php,vue,git,html,css,mysql" />
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql" />
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
 ---
 
 <p align="center">
