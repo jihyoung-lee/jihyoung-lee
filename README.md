@@ -7,15 +7,21 @@
 
 ## 🌱 Currently Learning
 - 🐘 Modern PHP (Laravel 10+)
+- 🐍 python 3+
 - 🤖 AI / NLP / Computer Vision (CNN)
-- 🔎 Data Crawling
 
 ---
 
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:wlgud3412@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="mailto:wlgud3412@naver.com">
+    <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+    <a href="mailto:liming661211@qq.com">
+    <a href="mailto:yourqq@qq.com">
+    <img src="https://img.shields.io/badge/QQMail-1877F2?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 ---
